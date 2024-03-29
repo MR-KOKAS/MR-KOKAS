@@ -51,11 +51,11 @@
 ## Academic Background:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://imgs.search.brave.com/tCtED9PofXwPs6v3k6YjNqe0ymH1BAw2Pjs7UEwZOSc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kM25q/amNiaGJvamJvdC5j/bG91ZGZyb250Lm5l/dC9hcGkvdXRpbGl0/aWVzL3YxL2ltYWdl/cHJveHkvaHR0cHM6/Ly9jb3Vyc2VyYS11/bml2ZXJzaXR5LWFz/c2V0cy5zMy5hbWF6/b25hd3MuY29tL2Zj/LzYzYTM3MDg3ZWYx/MWU1ODFiOGViMzQy/OWRlZTJlNy9sb2dv/X3RlY18zNjB4MzYw/X2JsYW5jby1zb2Jy/ZS1henVsLnBuZz9h/dXRvPWZvcm1hdCxj/b21wcmVzcyZkcHI9/MSZ3PTE4MCZoPTE4/MA"/>](https://www.uninter.com/)
-**Software Engineering Undergraduate** \
+**Robotic Engineering Undergraduate** \
 [**TECNOLÓGICO DE MONTERREY**](https://tec.mx/en)  • In progress\
 Skills: `Embedded Systems Developer` `Autonomous Robots Developer` `Hardware Interfaces Development` `Professional Ethics` `Project Management` `Software Development` 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/KOKAS-3o14TOS/JorgeMtzLpz.github.io/blob/main/IMG/cv.png"/>]([https://www.onebitcode.com/](https://github.com/KOKAS-3o14TOS/JorgeMtzLpz.github.io/blob/main/IMG/cv.png))
 **Full Stack Developer** \
 [**MR.🥤**](https://www.youtube.com/channel/UCwYwpt62F9pclR_qkHwY4-w) • In progress \
 Skills: `HTML5` `CSS3` `ROS2` `Opencv` `Python` `System Control` `AI` `Electronic` `IoT` 
