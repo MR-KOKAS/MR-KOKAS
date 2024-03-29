@@ -57,8 +57,8 @@ Skills: `Embedded Systems Developer` `Autonomous Robots Developer` `Hardware Int
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
 **Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills: `HTML5` `CSS3` `ROS2` `Opencv` `Python` `System Control` `AI` 
+[**MR.🥤**](https://www.youtube.com/channel/UCwYwpt62F9pclR_qkHwY4-w) • In progress \
+Skills: `HTML5` `CSS3` `ROS2` `Opencv` `Python` `System Control` `AI` `Electronic` `IoT` 
 
 <br>
 
