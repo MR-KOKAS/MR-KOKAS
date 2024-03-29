@@ -53,23 +53,22 @@
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://imgs.search.brave.com/tCtED9PofXwPs6v3k6YjNqe0ymH1BAw2Pjs7UEwZOSc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kM25q/amNiaGJvamJvdC5j/bG91ZGZyb250Lm5l/dC9hcGkvdXRpbGl0/aWVzL3YxL2ltYWdl/cHJveHkvaHR0cHM6/Ly9jb3Vyc2VyYS11/bml2ZXJzaXR5LWFz/c2V0cy5zMy5hbWF6/b25hd3MuY29tL2Zj/LzYzYTM3MDg3ZWYx/MWU1ODFiOGViMzQy/OWRlZTJlNy9sb2dv/X3RlY18zNjB4MzYw/X2JsYW5jby1zb2Jy/ZS1henVsLnBuZz9h/dXRvPWZvcm1hdCxj/b21wcmVzcyZkcHI9/MSZ3PTE4MCZoPTE4/MA"/>](https://www.uninter.com/)
 **Software Engineering Undergraduate** \
 [**TECNOLÓGICO DE MONTERREY**](https://tec.mx/en)  • In progress\
-Skills: `Develops embedded systems complying with quality, security, and performance standards` `Develops the intelligence components that allow a robot to be autonomous in solving problems` `Create interfaces of hardware and software that enable intelligent interaction between digital devices` `Professional Ethics` `Project Management` `Software Development` 
+Skills: `Embedded Systems Developer` `Autonomous Robots Developer` `Hardware Interfaces Development` `Professional Ethics` `Project Management` `Software Development` 
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://yt3.googleusercontent.com/rObOEbK1sg50-EG5bF6XWqtUMS5FHsFMA5bOl50UwrXnezjLqovTdtPK6Ql9V-4jGkasyOXs1g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.onebitcode.com/)
 **Full Stack Developer** \
 [**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills: `HTML5` `CSS3` `SASS` `Flexbox` `GRID` `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs` `ExpressJS` `NextJs`
-`Bulma` `MongoDB` `ElectronJS`
+Skills: `HTML5` `CSS3` `ROS2` `Opencv` `Python` `System Control` `AI` 
 
 <br>
 
 ## Contact me:
 <div>
-<a href="https://www.instagram.com/y_m_k.02/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto: contatojacquelineatae@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jacquelineatae/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.instagram.com/jorgemtz_kokas/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto: kokaslocas123@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jorgemtzlpz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 
 ------
-Credit: [jacquelineatae](https://github.com/jacquelineatae)
+Credit: [ジャクリーン・アタエ](https://github.com/jacquelineatae)
