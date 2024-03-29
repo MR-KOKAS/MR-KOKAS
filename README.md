@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Jorge+(Mr.kokas);I'm+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Jorge+(Mr.kokas);Welcome+to+my+GitHub+profile!;I'm+Robotic+Engineering+Student)](https://git.io/typing-svg)
 
 <h3 align="center">"You become what you give your attention to."</h3>
 <h4 align="center">- EPITECTETO -</h4>
